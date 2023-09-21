@@ -1,4 +1,4 @@
-function mostrar(){
+/*function mostrar(){
     opc=parseInt(prompt("Digita 1 si desea calcular el cuadro, digita 2 si desea calcular el rectangulo, digite 3 si desea calcular el triangulo, digite 5  si desea salir"))
 
 switch(opc){
@@ -26,5 +26,5 @@ switch(opc){
         break          
 }
         
-}
+}*/
 

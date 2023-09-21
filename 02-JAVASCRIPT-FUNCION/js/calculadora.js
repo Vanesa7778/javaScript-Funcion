@@ -1,4 +1,4 @@
-function mostrar(){
+/*function mostrar(){
     opc=parseInt(prompt("Digita 1 si desea calcular una suma, digita 2 si desea calcular una resta, digite 3 si desea calcular una multiplicacion, digite 4 si desea calcular una division, digite 5 si desea saber cual es el mayor"))
 
 switch(opc){
@@ -41,4 +41,4 @@ switch(opc){
         
 }
         
-}
+}*/
